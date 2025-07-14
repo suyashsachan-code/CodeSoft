@@ -21,7 +21,7 @@ A modern GUI calculator built with Tkinter that performs basic arithmetic operat
 - Input validation and error handling (e.g., divide by zero)
 - Styled with a clean dark-themed interface
 
-📂 [View Code](./SmartCalculator.py)
+📂 [View Code](./Calculator.py)
 
 ---
 
@@ -32,7 +32,7 @@ A secure and customizable password generator:
 - Copy to clipboard feature
 - Sleek and intuitive UI design
 
-📂 [View Code](./PasswordGenerator.py)
+📂 [View Code](./passwordgenerator.py)
 
 ---
 
@@ -51,15 +51,5 @@ A secure and customizable password generator:
 
 ---
 
-## 🙌 Acknowledgment
-Thanks to **CodSoft** for providing this internship opportunity and helping me grow as a Python developer. These projects reflect my learning and dedication during the internship period.
-
----
-
 ## 📎 Connect with Me
-🔗 [LinkedIn – Suyash Sachan](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
-📂 [Visit My Portfolio](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-⭐ *Feel free to fork, clone, or explore these beginner-friendly Python GUI projects!*
+🔗 [LinkedIn – Suyash Sachan](https://www.linkedin.com/in/suyashsachan)  
