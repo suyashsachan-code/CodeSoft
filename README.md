@@ -21,7 +21,7 @@ A modern GUI calculator built with Tkinter that performs basic arithmetic operat
 - Input validation and error handling (e.g., divide by zero)
 - Styled with a clean dark-themed interface
 
-📂 [View Code](./Calculator.py)
+📂 [View Code](./calculator.py)
 
 ---
 
