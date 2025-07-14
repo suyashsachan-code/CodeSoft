@@ -5,8 +5,17 @@ This repository contains the **Python projects** I developed as part of my inter
 ---
 
 ## 🚀 Projects Included
+### 1. ✅ To-Do List Application
+A user-friendly task manager:
+- Add, mark as done, and delete tasks
+- List with task status (✅ Done / ❌ Not Done)
+- Persistent interface with Tkinter widgets
 
-### 1. 🧮 Smart Calculator
+📂 [View Code](./ToDoListApp.py)
+
+---
+
+### 2. 🧮 Smart Calculator
 A modern GUI calculator built with Tkinter that performs basic arithmetic operations:
 - Addition, Subtraction, Multiplication, Division
 - Input validation and error handling (e.g., divide by zero)
@@ -16,7 +25,7 @@ A modern GUI calculator built with Tkinter that performs basic arithmetic operat
 
 ---
 
-### 2. 🔐 Secure Password Generator
+### 3. 🔐 Secure Password Generator
 A secure and customizable password generator:
 - Select character types: uppercase, lowercase, digits, special symbols
 - Real-time password generation
@@ -24,16 +33,6 @@ A secure and customizable password generator:
 - Sleek and intuitive UI design
 
 📂 [View Code](./PasswordGenerator.py)
-
----
-
-### 3. ✅ To-Do List Application
-A user-friendly task manager:
-- Add, mark as done, and delete tasks
-- List with task status (✅ Done / ❌ Not Done)
-- Persistent interface with Tkinter widgets
-
-📂 [View Code](./ToDoListApp.py)
 
 ---
 
