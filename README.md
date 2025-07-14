@@ -11,7 +11,7 @@ A user-friendly task manager:
 - List with task status (✅ Done / ❌ Not Done)
 - Persistent interface with Tkinter widgets
 
-📂 [View Code](./ToDoListApp.py)
+📂 [View Code](./TOdolist.py)
 
 ---
 
